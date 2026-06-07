@@ -1,1 +1,4 @@
-# ml-churn-prediction
+Customer Churn Prediction Project
+
+Цель:
+Предсказать вероятность ухода клиента.
